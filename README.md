@@ -12,6 +12,8 @@ This project helped me craft 2 new desgin skills, first, taking a visual object 
 - How did iteration factor into your development?
 - How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
 
+By making my code reusable as a development strategy it allowed me to quickly make new objects in my 3D scene. Having multiple iterations of the project allowed me to update the project as I went throughout the milestones. Breaking up this large project into smaller more achivable goals throught the semester.
+
 ### How can computer science help me in reaching my goals?
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
