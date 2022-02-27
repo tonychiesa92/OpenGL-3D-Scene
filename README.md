@@ -17,3 +17,5 @@ By making my code reusable as a development strategy it allowed me to quickly ma
 ### How can computer science help me in reaching my goals?
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
+Going forward in my education and professional carrer, computational graphics and visualizations allows me to utalize my computer science skills to visualize the problem at hand that I am attempting to solve and apply best coding practices.
